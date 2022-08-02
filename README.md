@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Serryousc
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning Python with Numpy,Pandas and Matplotlib
-- 💞️ I’m looking to collaborate on simple data analisis
-- 📫 How to reach me serryousc@mail.uft.edu.br
+- 👀 I’m interested in Web Development and Javascript
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on simple web sites
+- 📫 How to reach me abrao.k@hotmail.com
 
 <!---
 Serryousc/Serryousc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
