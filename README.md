@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serryousc
-- 👀 I’m interested in Web Development and Javascript
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on simple web sites
+- 🏡I'm from Brazil
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning everything
 - 📫 How to reach me abrao.k@hotmail.com
 
 <!---
