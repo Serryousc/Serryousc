@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serryousc
-- 🏡I'm from Brazil
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning everything
+- 🏡 I'm from Brazil
+- 👀 I’m interested in Back-end Development
+- 🌱 I’m currently learning PostgreSQL
 - 📫 How to reach me abrao.k@hotmail.com
 
 <!---
