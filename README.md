@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Abrão <br>- 🏡 I'm from Brazil <br>- 👀 I’m interested in Back-end Development and CyberSecurity <br>- 🌱 I’m currently learning PostgreSQL
+ - 👋 Hi, I’m Abrão <br>- 🏡 I'm from Brazil <br>- 👀 I’m interested in Back-end Development and CyberSecurity <br>- 🌱 I’m currently learning PostgreSQL
 
 
 ## 🌐 Socials:
