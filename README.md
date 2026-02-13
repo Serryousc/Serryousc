@@ -1,12 +1,43 @@
 # 💫 About Me:
- - 👋 Hi, I’m Abrão <br>- 🏡 I'm from Brazil <br>- 👀 I’m interested in Back-end Development and CyberSecurity <br>- 🌱 I’m currently learning PostgreSQL and Bash
-
+ - 👋 Hi, I’m Abrão <br>- 🏡 I'm from Brazil <br>- 👀 I’m interested in CyberSecurity <br>- 🌱 I’m currently learning Pentesting and Cybersecurity (Nmap, Burp Suite, Linux)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abrao-junior) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 🔴 Offensive Security (Red Team / Pentest)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+---
+
+## 🔵 Defensive Security (Blue Team / SOC)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+---
+
+## 🧩 Scripting, Automação & Dados
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🧭 Conceitos e Atuação
+![Red Team](https://img.shields.io/badge/Red_Team-Offensive-red?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue_Team-Defensive-blue?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/Pentesting-Security-critical?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-Monitoring-informational?style=for-the-badge)
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Serryousc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Serryousc&theme=dark&hide_border=false)<br/>
