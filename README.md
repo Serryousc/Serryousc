@@ -28,7 +28,7 @@
 
 ---
 
-###🧭 Conceitos e Atuação
+### 🧭 Conceitos e Atuação
 ![Red Team](https://img.shields.io/badge/Red_Team-Offensive-red?style=for-the-badge)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-Defensive-blue?style=for-the-badge)
 ![Pentesting](https://img.shields.io/badge/Pentesting-Security-critical?style=for-the-badge)
